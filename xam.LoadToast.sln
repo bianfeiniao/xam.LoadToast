@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xam.LoadToast", "xam.LoadToast.csproj", "{69D6B60C-6587-4C85-AF73-14306FF4FBD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sampt", "sampt\sampt.csproj", "{D118B4D7-C231-4A57-866B-238A0EC61E10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69D6B60C-6587-4C85-AF73-14306FF4FBD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D6B60C-6587-4C85-AF73-14306FF4FBD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D6B60C-6587-4C85-AF73-14306FF4FBD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D6B60C-6587-4C85-AF73-14306FF4FBD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D118B4D7-C231-4A57-866B-238A0EC61E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D118B4D7-C231-4A57-866B-238A0EC61E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D118B4D7-C231-4A57-866B-238A0EC61E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D118B4D7-C231-4A57-866B-238A0EC61E10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

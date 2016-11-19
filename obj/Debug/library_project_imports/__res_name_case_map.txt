@@ -1,0 +1,4 @@
+Values/Strings.xml;values/strings.xml
+Values/colors.xml;values/colors.xml
+drawable/ic_error.png;drawable/ic_error.png
+drawable/ic_navigation_check.png;drawable/ic_navigation_check.png

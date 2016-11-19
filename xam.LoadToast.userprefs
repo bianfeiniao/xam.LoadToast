@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{D118B4D7-C231-4A57-866B-238A0EC61E10}|Default">
+  <MonoDevelop.Ide.ItemProperties.xam.LoadToast PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.sampt AndroidDesignerPreferredDevice="Nexus S" AndroidDesignerPreferredTheme="Theme.Material" PreferredExecutionTarget="Android.2c742383" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="sampt\MainActivity.cs" Line="1" Column="1" />
+      <File FileName="LoadToast.cs" Line="28" Column="14" />
+      <File FileName="MaterialProgressDrawable.cs" Line="325" Column="45" />
+      <File FileName="sampt\Resources\Resource.designer.cs" Line="104" Column="42" />
+      <File FileName="C:\Program Files (x86)\MSBuild\Xamarin\Android\Xamarin.Android.Common.Debugging.targets" Line="287" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
